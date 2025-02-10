@@ -1,4 +1,7 @@
-.env
+# Ignore all .env files
+**/.env
+**/.env.*
 
-/mi-huo-ios
+# Ignore the mi-huo-ios folder
+mi-huo-ios/
 
