@@ -5,3 +5,4 @@
 # Ignore the mi-huo-ios folder
 mi-huo-ios/
 
+server/.env
