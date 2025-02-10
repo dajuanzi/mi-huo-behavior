@@ -6,3 +6,5 @@
 mi-huo-ios/
 
 server/.env
+
+__pycache__/
