@@ -8,3 +8,4 @@ mi-huo-ios/
 server/.env
 
 __pycache__/
+.venv
